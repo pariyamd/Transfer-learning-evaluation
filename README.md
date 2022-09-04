@@ -2,7 +2,12 @@
 CNN Transfer learning and fine tuning presentation and implementation
 
 ## Introduction
-This presentation is for Data Mining course in Amirkabir University of Technology. Our group consisted of .
+This presentation is for Data Mining course in Amirkabir University of Technology.
+Group members:
+- Aria Mostajeran
+- Zahra Salarian
+- Pariya Mehrbod
+- Kian Kashfipour
 
 ## Presentation Objectives
 
